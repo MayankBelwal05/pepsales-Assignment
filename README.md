@@ -7,7 +7,7 @@ NSE Stock Tracker is a web application designed to display live stock prices of 
 ## Deployed App 🖊️
 Frontend: [https://pepsales-assignment-eight.vercel.app/]
 
-# Features
+## Features
 
 - Landing page to enhance user UI related experience.
 - Dashboard page to display live stock prices of 20 listed companies.
@@ -33,11 +33,11 @@ npm run dev
 ```
 ## Design
 
-## LandingPage
+### LandingPage
 
-## Dashboard
+### Dashboard
 
-## StockDetails Page
+### StockDetails Page
 
 ## Design Decisions or Assumptions
 Use of a modern and minimalist design for enhanced user experience.
