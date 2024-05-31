@@ -18,8 +18,7 @@ function App() {
                 📈 N S E
               </a>
             </Typography>
-
-            <Button color="inherit" component={Link} to="/">Home</Button>
+            {/* <Button color="inherit" component={Link} to="/">Home</Button> */}
             <Button variant="contained" color="primary" component={Link} to="/dashboard">
               Dashboard
             </Button>

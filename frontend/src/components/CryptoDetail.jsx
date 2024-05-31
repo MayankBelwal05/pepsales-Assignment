@@ -45,7 +45,7 @@ function CryptoDetail() {
         padding: '20px'
       }}
     >
-      <Card style={{ backgroundColor: '#1f1f1f', color: '#fff', marginTop: '30px', borderRadius: '40px', width: '100%' }}>
+      <Card style={{ backgroundColor: '#1f1f1f', color: '#fff', marginTop: '25px', borderRadius: '40px', width: '100%' }}>
         <CardContent>
           <Typography variant="h4" align="center">{crypto.name}</Typography>
           <img src={crypto.image} alt={crypto.name} style={{ width: '100px', height: '100px', margin: 'auto', display: 'block' }} />
