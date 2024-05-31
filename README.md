@@ -34,10 +34,14 @@ npm run dev
 ## Design
 
 ### LandingPage
+![n1](https://github.com/MayankBelwal05/pepsales-Assignment/assets/147751671/0c2ec120-e3d6-46c8-8bc8-59dd2d3b1daa)
 
 ### Dashboard
+![n2](https://github.com/MayankBelwal05/pepsales-Assignment/assets/147751671/73d450fc-dc4d-4e3e-a0bf-b0d7a8382867)
 
 ### StockDetails Page
+![n3](https://github.com/MayankBelwal05/pepsales-Assignment/assets/147751671/51c1317d-2268-4e44-87c2-c1e74d14b83b)
+
 
 ## Design Decisions or Assumptions
 Use of a modern and minimalist design for enhanced user experience.
