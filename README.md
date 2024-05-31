@@ -54,4 +54,4 @@ npm run dev
 Use of a modern and minimalist design for enhanced user experience.
 
 
-## ThankYou
+## ThankYou 🙏

@@ -45,7 +45,7 @@ function MainComponent() {
           transition={{ delay: 1.25, duration: 0.75 }}
         >
           <a href="/dashboard">
-            <Button text={"Dashboard"} />
+          <Button text={"Dashboard"} style={{ backgroundColor: 'black' }} />
           </a>
           <RWebShare
             data={{
