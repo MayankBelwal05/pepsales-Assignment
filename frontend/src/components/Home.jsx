@@ -18,7 +18,7 @@ function MainComponent() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ delay: 0.5, duration: 1 }}
         >
-          Track <br />  📈NSE
+          Track <br />  📈 the
           <br />data in
         </motion.h1>
         <motion.h1
@@ -36,7 +36,7 @@ function MainComponent() {
           transition={{ delay: 1, duration: 1 }}
           style={{ fontWeight: 'bold', fontSize: '1.3rem' }}
         >
-          Track 📈 National Stock Exchange data through a public API in real-time. Visit the dashboard to do so!
+          Track 📈 Financial Market data through a public API in real-time. Visit the dashboard to do so!
         </motion.p>
 
         <motion.div

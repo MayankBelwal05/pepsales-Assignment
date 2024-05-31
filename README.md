@@ -1,8 +1,8 @@
-## Pepsales  📈 N S E
+## Pepsales  📈
 
 ## Introduction 🔔
 
-NSE Stock Tracker is a web application designed to display live stock prices of 20 companies listed on the National Stock Exchange (NSE). It provides users with real-time data sourced from other reliable source. The application includes features such as details page for each stock with price details, and an optional graph displaying price movement as Market changes 24 hours. It utilizes React components and Redux for state management.
+NSE Stock Tracker is a web application designed to display live Crypto prices of 20 companies that is listed on the Financial Market. It provides users with real-time data sourced from other reliable source. The application includes features such as details page for each , with price details, and an optional graph displaying price movement as Market changes 24 hours. It utilizes React components and Redux for state management.
 
 ## Deployed App 🖊️
 Frontend: [https://pepsales-assignment-eight.vercel.app/]
@@ -17,8 +17,8 @@ Frontend: [https://pepsales-assignment-eight.vercel.app/]
 ## Features
 
 - Landing page to enhance user UI related experience.
-- Dashboard page to display live stock prices of 20 listed companies.
-- Details Page with Stock Information: price change percentage the last 24 hours, etc.
+- Dashboard page to display live Crypto/stock prices of 20 listed companies.
+- Details Page with Crypto Information: price change percentage the last 24 hours, etc.
 - Use of Graph to show Details in prices updown in Market.
 - Real-Time Price Updates: updates from the server and reflect them instantly on the UI.
 - Responsive Design for Mobile Devices.
