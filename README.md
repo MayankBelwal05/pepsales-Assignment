@@ -41,7 +41,8 @@ npm run dev
 ## Design
 
 ### LandingPage
-![n1](https://github.com/MayankBelwal05/pepsales-Assignment/assets/147751671/0c2ec120-e3d6-46c8-8bc8-59dd2d3b1daa)
+![n1](https://github.com/MayankBelwal05/pepsales-Assignment/assets/147751671/9f01376f-01b3-4bd2-9b28-fe3226313bdd)
+
 
 ### Dashboard
 ![n2](https://github.com/MayankBelwal05/pepsales-Assignment/assets/147751671/73d450fc-dc4d-4e3e-a0bf-b0d7a8382867)
